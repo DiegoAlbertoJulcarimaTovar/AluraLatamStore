@@ -4,22 +4,18 @@
 # 🛍️ AluraLatamStore
 Proyecto de análisis de datos del desafío Alura Store Latam
 
----
 
 ## 📋 Desafio
 El desafio consiste en realizar analisis de datos y con ello poder decidir cual de las 4 tiendas presentadas en el desafio es la menos rentable y por lo tanto aquella que deberia suspender funciones
 
 Este proyecto busca aplicar herramientas de análisis de datos para obtener insights claros y fundamentados que respalden dicha decisión.
 
----
 
 ## 📂 Archivos principales
 
 - `AluraStoreLatam.ipynb` → Libro de Google Colab con el codigo principal
 - `Report.md` → Reporte a presentar juntando el analisis del desempeño de las tiendas
 - `base-de-datos-challenge1-latam` → Folder directorio que contiene los DataFrames con los cuales se procedio a realizar el analisis de datos
-
----
 
 ## ⚙️ Funcionalidad
 El archivo de codigo contiene la capacidad de analizar y resaltar 5 de los factores determinantes para a toma de la decicion respecto a cual tienda resulta la menos productiva:
@@ -31,7 +27,6 @@ El archivo de codigo contiene la capacidad de analizar y resaltar 5 de los facto
 
 Adicionalmente, se realizaron visualizaciones interactivas y comparativas para facilitar la interpretación de los resultados.
 
----
 
 ## 🔮 Próximos pasos
 
@@ -40,8 +35,6 @@ Se planea añadir un mapa de calor georreferenciado, utilizando las coordenadas 
 - Identificar las zonas de mayor y menor rendimiento.
 - Detectar patrones geográficos que puedan influir en el desempeño de las tiendas.
 - Visualizar de forma interactiva las áreas con potencial de crecimiento o declive.
-
----
 
 ## 🧰 Tecnologías utilizadas
 
